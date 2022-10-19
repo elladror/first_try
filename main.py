@@ -1,2 +1,2 @@
 print("hello world")
-print("your name")
+print("animal : cat")
